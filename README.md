@@ -2,16 +2,6 @@
 
 This project focuses on extracting aesthetically pleasing color palettes from images using machine learning algorithms. The extracted color palettes can be used to enhance design automation, aiding various applications like web design, app development, and graphic design.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Interface](#interface)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 Color palettes are an important part of any design process, and choosing the right set of colors can dramatically improve the aesthetic of a project. In this repository, we present an automated approach to extract the best color palette from an image using machine learning models, ensuring a balanced and visually appealing selection of colors. The tool can be used to extract color schemes from various types of images, such as photographs, logos, and illustrations.
@@ -29,6 +19,6 @@ Here’s a preview of the interface:
 
 The interface allows you to:
 
-*Upload an image.
-*Display the extracted color palette.
-*Save the palette for use in design.
+### Upload an image.
+### Display the extracted color palette.
+### Save the palette for use in design.
